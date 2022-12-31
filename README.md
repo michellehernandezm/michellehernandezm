@@ -10,7 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michellehernandezm/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michellehernandezm/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-Public)
 
-
+- <b>Virtual Private Networks (VP) ()</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/michellehernandezm/osticket-prereqs)
 
 <h2> 🤳 Connect with me:</h2>
 
