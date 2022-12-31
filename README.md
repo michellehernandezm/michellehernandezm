@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michellehernandezm/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-Public)
 
 - <b>Virtual Private Networks (VPN) </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/michellehernandezm/osticket-prereqs)
+  - [Proton VPN: Setup and Usage](https://github.com/michellehernandezm/Proton_VPN_Setup)
 
 <h2> 🤳 Connect with me:</h2>
 
